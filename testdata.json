@@ -1,0 +1,19 @@
+{
+    "usr_id": "sample-uid",
+    "params": {
+        "views": 100,
+        "likes": 50,
+        "status": "active"
+    },
+    "content": {
+        "title": "Sample Post Title",
+        "description": "This is a sample post description.",
+        "body": "This is the main content of the sample post."
+    },
+    "settings": {
+        "publishedOn": "2023-05-21T13:57:58.367Z",
+        "visibilityCountry": "United States",
+        "link": "https://example.com/sample-post",
+        "url": "/sample-post"
+    }
+}
